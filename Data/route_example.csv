@@ -1,0 +1,5 @@
+route,km,minutes,kWh mild,kWh cold,kWh/100km mild,kWh/100km cold
+shortest distance,6.23,13.3,0.642,1.195,10.3,19.2
+fastest time,6.52,12.3,0.681,1.192,10.4,18.3
+lowest energy (mild day),6.31,13.3,0.592,1.145,9.4,18.1
+lowest energy (cold day),6.31,13.0,0.593,1.134,9.4,18.0
